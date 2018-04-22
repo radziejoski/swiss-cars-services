@@ -1,5 +1,8 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+/swiss-cars-services-webapp/target
+/swiss-cars-services-core/target
+
 
 ### STS ###
 .apt_generated
